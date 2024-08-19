@@ -4,9 +4,9 @@ Immediate mode SDL2 + OpenGL + ImGui display manager GUI program that lets you c
 
 As of right now, only brightness adjustment is supported.
 
-dispmanager uses ddcutil to communicate with with your monitors virtual control panel using DDC/CI protocol. Because ddcutil is developed for linux, this program is not platform agnostic and only works with linux.
+dispmanager uses ddcutil to communicate with your monitors virtual control panel (VCP) using DDC/CI protocol. Because ddcutil is developed for linux, this program is not platform agnostic and only works with linux.
 
-Most monitors support DDC/UI communication. Laptops rarely support it.
+Most monitors support DDC/CI communication, but laptops rarely support it.
 
 ![app1](https://github.com/user-attachments/assets/cbab3429-7cbd-449b-8679-9d7d67c32820)
 ![app2](https://github.com/user-attachments/assets/ca66e99b-0daf-4b60-acaa-da9d7ab24948)
