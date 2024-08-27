@@ -27,3 +27,4 @@ build project
    cmake --build build
    ```
 then run the program in build/src/ folder
+
