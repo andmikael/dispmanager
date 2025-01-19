@@ -2,7 +2,7 @@
 
 Immediate mode SDL2 + OpenGL + ImGui display manager GUI program that lets you control different color related settings of your monitor(s).
 
-As of right now, only brightness adjustment is supported.
+Configuration of brightness, contrast and monitors RGB values are currently supported.
 
 dispmanager uses ddcutil to communicate with your monitors virtual control panel (VCP) using DDC/CI protocol. Because ddcutil is developed for linux, this program is not platform agnostic.
 
