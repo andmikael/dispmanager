@@ -8,12 +8,10 @@ dispmanager uses ddcutil to communicate with your monitors virtual control panel
 
 Most monitors support DDC/CI communication, but laptops rarely support it.
 
-![app1](https://github.com/user-attachments/assets/cbab3429-7cbd-449b-8679-9d7d67c32820)
-![app2](https://github.com/user-attachments/assets/ca66e99b-0daf-4b60-acaa-da9d7ab24948)
-
+![app1](https://github.com/user-attachments/assets/22e29801-d846-4dab-8d8e-54e9d5b842ca)
+![app2](https://github.com/user-attachments/assets/6d662292-06cc-4d91-be38-2890782e7ff8)
 
 # Dependencies and running the program
-
 install the following depencencies
    ```
    ddcutil libddcutil-dev libsdl2-2.0-0 libsdl2-dev
