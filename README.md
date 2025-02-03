@@ -13,7 +13,7 @@ Most monitors support DDC/CI communication, but laptops rarely support it.
 
 
 
-https://github.com/user-attachments/assets/075320c2-711a-4407-a18b-4e2ffaccb67e
+<!--https://github.com/user-attachments/assets/075320c2-711a-4407-a18b-4e2ffaccb67e -->
 
 
 
